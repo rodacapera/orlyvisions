@@ -1,10 +1,9 @@
 {
   "Header": {
-    "title": "Panic Button",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Panic Button"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Guardian es un Sistema integral de herramientas para brindar una mejor seguridad privada y accesos residenciales y (o) empresariales, el cual tiene como actor principal y más importante al usuario final, permitiéndole una interacción más efectiva, mediante herramientas tecnológicas que ayudarán a que el concepto de seguridad privada tenga más protagonismo en las diferentes etapas y situaciones de nuestra vida cotidiana",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
