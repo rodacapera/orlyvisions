@@ -125,7 +125,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #a58787  0%, #b63333 100%) !important;
+  background: linear-gradient(to right, #a58787 0%, #b63333 100%) !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -134,7 +134,7 @@ hr {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #a58787 ;
+  background-color: #a58787;
   border-color: #b63333;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
@@ -152,7 +152,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #a58787  0%, #b63333 100%);
+  background: linear-gradient(to right, #a58787 0%, #b63333 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/logoPanicButton.jpg) center center no-repeat;
+  background: url(../img/banner.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
