@@ -67,17 +67,17 @@
   "Services": [
     {
       "icon": "fa fa-mobile",
-      "name": "Lorem ipsum dolor",
+      "name": "Facil Manejo",
       "text": "Aplicación móvil que te permite activar el pánico y alertar a la comunidad."
     },
     {
       "icon": "fa fa-dot-circle-o",
-      "name": "Consectetur adipiscing",
+      "name": "Internet of Things",
       "text": "Botón de pánico inalámbrico con el cual podrás activar el pánico de la aplicación móvil sin la necesidad de usar tu teléfono móvil."
     },
     {
       "icon": "fa fa-calendar",
-      "name": "Lorem ipsum dolor",
+      "name": "Soporte Continuo",
       "text": "Disponibilidad del sistema las 24 horas del día los 7 días de la semana, los 365 días del año."
     }
   ],
