@@ -3,7 +3,7 @@
     "title": ""
   },
   "About": {
-    "paragraph": "Guardian es un Sistema integral de herramientas para brindar una mejor seguridad privada y accesos residenciales y (o) empresariales, el cual tiene como actor principal y más importante al usuario final, permitiéndole una interacción más efectiva, mediante herramientas tecnológicas que ayudarán a que el concepto de seguridad privada tenga más protagonismo en las diferentes etapas y situaciones de nuestra vida cotidiana",
+    "paragraph": "Somos la mejor opción que tendrás en la palma de tu mano para esos momentos peligrosos o de posible amenaza, en los que requieras alertar a toda la comunidad y hacer saber que te encuentras en potencial peligro y con esto lograr persuadir la posible agresión o ataque.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -66,34 +66,19 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-mobile",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Aplicación móvil que te permite activar el pánico y alertar a la comunidad."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-dot-circle-o",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Botón de pánico inalámbrico con el cual podrás activar el pánico de la aplicación móvil sin la necesidad de usar tu teléfono móvil."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-calendar",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Disponibilidad del sistema las 24 horas del día los 7 días de la semana, los 365 días del año."
     }
   ],
   "Testimonials": [
