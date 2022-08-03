@@ -13,40 +13,64 @@
   },
   "Gallery": [
     {
-      "title": "Permiso de Ubicacion",
-      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
-      "largeImage": "img/portfolio/permisoUbicacion.jpeg",
-      "smallImage": "img/portfolio/permisoUbicacion.jpeg"
+      "title": "Ingreso",
+      "text": "Una vez hayas creado tu cuenta y activado los permisos de ubicacion de la app puedes ingresar a ella seleccionando el pais correspondiente e ingresando numero registrado",
+      "largeImage": "img/portfolio/login.png",
+      "smallImage": "img/portfolio/login.png"
     },
     {
-      "title": "Permiso de Ubicacion",
-      "text": "Preferimos que escojas la primer opcion y que no te este saliendo este mensaje, confia en nosotros ;)",
-      "largeImage": "img/portfolio/aceptarPermiso.jpeg",
-      "smallImage": "img/portfolio/aceptarPermiso.jpeg"
-    },
-    {
-      "title": "Project Title",
-      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
+      "title": "Codigo de verificación",
+      "text": "Al momento de ingresar por primera vez a la app recibiras un msj de verificacion al numero registrado el cual deberas digitar",
       "largeImage": "img/portfolio/checkOtp.png",
       "smallImage": "img/portfolio/checkOtp.png"
     },
     {
-      "title": "Project Title",
+      "title": "Mapa",
+      "text": "Dentro de la app podras visualizar un mapa con la ubicacion exacta en tiempo real, en la parte inferior podras visualizar el boton de panico, el cual una vez haya sido presionado generara una alerta de peligro en la ubicacion actual",
+      "largeImage": "img/portfolio/home.png",
+      "smallImage": "img/portfolio/home.png"
+    },
+    {
+      "title": "Panico",
+      "text": "Cuando se haya generado un reporte de panico automaticamente se alertara a todas las personas que cuenten con la app",
+      "largeImage": "img/portfolio/panico.png",
+      "smallImage": "img/portfolio/panico.png"
+    },
+    {
+      "title": "Menu",
+      "text": "Tambien se cuenta con un menu de navegacion en el cual se pueden visualizar distintos modulos a los cuales podemos tener acceso (los apartados de registrar usuario y administrar usuario unicamente seran visibles para el administrador)",
+      "largeImage": "img/portfolio/menu.png",
+      "smallImage": "img/portfolio/menu.png"
+    },
+    {
+      "title": "Perfil",
       "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
-      "largeImage": "img/portfolio/crearCuenta.jpeg",
-      "smallImage": "img/portfolio/crearCuenta.jpeg"
+      "largeImage": "img/portfolio/perfil.png",
+      "smallImage": "img/portfolio/perfil.png"
     },
     {
       "title": "Project Title",
       "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
-      "largeImage": "img/portfolio/elegirPais.jpeg",
-      "smallImage": "img/portfolio/elegirPais.jpeg"
+      "largeImage": "img/portfolio/codigoQr.png",
+      "smallImage": "img/portfolio/codigoQr.png"
+    },
+    {
+      "title": "Permiso de Ubicacion",
+      "text": "Preferimos que escojas la primer opcion y que no te este saliendo este mensaje, confia en nosotros ;)",
+      "largeImage": "img/portfolio/administrarUsuario.png",
+      "smallImage": "img/portfolio/administrarUsuario.png"
     },
     {
       "title": "Project Title",
       "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
-      "largeImage": "img/portfolio/llenarDatosCuenta1.jpeg",
-      "smallImage": "img/portfolio/llenarDatosCuenta1.jpeg"
+      "largeImage": "img/portfolio/eliminarUsuario.png",
+      "smallImage": "img/portfolio/eliminarUsuario.png"
+    },
+    {
+      "title": "Permiso de Ubicacion",
+      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
+      "largeImage": "img/portfolio/administrarQr.png",
+      "smallImage": "img/portfolio/administrarQr.png"
     }
   ],
   "Services": [
@@ -124,9 +148,9 @@
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 (917) 805-4161",
     "email": "info@ovisions.app",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com"
   },
   "Features": [
     {

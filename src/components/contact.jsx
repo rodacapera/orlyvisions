@@ -127,17 +127,17 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a href={props.data ? props.data.facebook : '/'} target="_blank" rel="noopener noreferrer">
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank" rel="noopener noreferrer">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href={props.data ? props.data.youtube : '/'} target="_blank" rel="noopener noreferrer">
                       <i className='fa fa-youtube'></i>
                     </a>
                   </li>
@@ -151,9 +151,6 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2022 Panic Button.
-            
-              Desarrollos Teranov
-            
           </p>
         </div>
       </div>
