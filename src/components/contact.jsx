@@ -150,10 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Panic Button. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              Desarrollos Teranov
-            </a>
+            &copy; 2022 Panic Button.
           </p>
         </div>
       </div>

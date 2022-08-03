@@ -1,4 +1,4 @@
-export const Image = ({ title, largeImage, smallImage }) => {
+export const Image = ({ title, text, largeImage, smallImage }) => {
   return (
     <div className='portfolio-item'>
       <div className='hover-bg'>
@@ -10,6 +10,8 @@ export const Image = ({ title, largeImage, smallImage }) => {
         >
           <div className='hover-text'>
             <h4>{title}</h4>
+            <br />
+            <p>{text}</p>
           </div>
           <img
             src={smallImage}
