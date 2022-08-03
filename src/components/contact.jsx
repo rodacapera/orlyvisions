@@ -98,17 +98,17 @@ export const Contact = (props) => {
           <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Información de contacto</h3>
-              <p>
+              {/* <p>
                 <span>
-                  <i className='fa fa-map-marker'></i> Address
+                  <i className='fa fa-map-marker'></i> Dirección
                 </span>
                 {props.data ? props.data.address : 'loading'}
-              </p>
+              </p> */}
             </div>
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Phone
+                  <i className='fa fa-phone'></i> Teléfono
                 </span>{' '}
                 {props.data ? props.data.phone : 'loading'}
               </p>
@@ -151,6 +151,9 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2022 Panic Button.
+            
+              Desarrollos Teranov
+            
           </p>
         </div>
       </div>

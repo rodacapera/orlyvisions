@@ -8,7 +8,7 @@
       "Facil manejo",
       "Accion rapida",
       "Proteccion para tu familia y/o tu negocio",
-      "Incididunt ut labore"
+      "La mejor opción en seguridad para tu bolsillo"
     ]
   },
   "Gallery": [
@@ -27,8 +27,8 @@
     {
       "title": "Project Title",
       "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
-      "largeImage": "img/portfolio/login.jpeg",
-      "smallImage": "img/portfolio/login.jpeg"
+      "largeImage": "img/portfolio/checkOtp.png",
+      "smallImage": "img/portfolio/checkOtp.png"
     },
     {
       "title": "Project Title",
@@ -100,19 +100,19 @@
   ],
   "Team": [
     {
+      "img": "img/team/02.jpg",
+      "name": "Orly",
+      "job": "CEO"
+    },
+    {
       "img": "img/team/rhonaldTeam.jpeg",
-      "name": "Ronald Capera",
+      "name": "Rhonald Capera",
       "job": "CTO"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Jorge Rojas",
+      "job": "Desarrollador Movil"
     },
     {
       "img": "img/team/04.jpg",
@@ -122,8 +122,8 @@
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "phone": "+1 (917) 805-4161",
+    "email": "info@ovisions.app",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

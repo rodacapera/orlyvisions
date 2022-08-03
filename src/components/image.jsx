@@ -14,6 +14,7 @@ export const Image = ({ title, text, largeImage, smallImage }) => {
             <p>{text}</p>
           </div>
           <img
+            style={{paddingBottom: '20px', paddingTop: '20px'}}
             src={smallImage}
             className='img-responsive'
             alt={title}
