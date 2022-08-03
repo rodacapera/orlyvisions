@@ -44,31 +44,31 @@
     },
     {
       "title": "Perfil",
-      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
+      "text": "Aca podras ver toda la informacion relacionada contigo",
       "largeImage": "img/portfolio/perfil.png",
       "smallImage": "img/portfolio/perfil.png"
     },
     {
-      "title": "Project Title",
-      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
+      "title": "Agregar Usuario",
+      "text": "Manejamos un registro de usuarios mediante un codigo qr el cual redirecciona a la aplicacion y en esta el trabajador debera hacer el proceso de llenar el formulario",
       "largeImage": "img/portfolio/codigoQr.png",
       "smallImage": "img/portfolio/codigoQr.png"
     },
     {
-      "title": "Permiso de Ubicacion",
-      "text": "Preferimos que escojas la primer opcion y que no te este saliendo este mensaje, confia en nosotros ;)",
+      "title": "Administrar Usuarios",
+      "text": "Se pueden tambien ver todos los usuarios que tengamos registrados en nuestro nucleo",
       "largeImage": "img/portfolio/administrarUsuario.png",
       "smallImage": "img/portfolio/administrarUsuario.png"
     },
     {
-      "title": "Project Title",
-      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
+      "title": "Eliminar usuario",
+      "text": "Si por error o cualquier motivo queremos eliminar a un usuario que teniamos agregado, lo podemos hacer, mas sin embargo te mostraremos un mensaje de advertencia para estar seguros de tu decision ;)",
       "largeImage": "img/portfolio/eliminarUsuario.png",
       "smallImage": "img/portfolio/eliminarUsuario.png"
     },
     {
-      "title": "Permiso de Ubicacion",
-      "text": "Antes de empezar deberas aceptar el permiso de ubicacion",
+      "title": "Generar QR",
+      "text": "Desde el mismo apartado de administrar usuarios podemos generar el codigo qr para agregar uno nuevo, !sencillo! ¿No lo crees?",
       "largeImage": "img/portfolio/administrarQr.png",
       "smallImage": "img/portfolio/administrarQr.png"
     }
