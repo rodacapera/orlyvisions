@@ -5,7 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Conoce el equipo</h2>
           <p>
-            Estos son algunos de nuestros desarrolladores
+            Estos son algunos de nuestros colaboradores
           </p>
         </div>
         <div id='row'>
