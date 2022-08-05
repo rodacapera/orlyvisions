@@ -26,13 +26,13 @@
     },
     {
       "title": "Mapa",
-      "text": "Dentro de la app podras visualizar un mapa con la ubicacion exacta en tiempo real, en la parte inferior podras visualizar el boton de panico, el cual una vez haya sido presionado generara una alerta de peligro en la ubicacion actual",
+      "text": "Dentro de la app podras visualizar un mapa con la ubicacion exacta en tiempo real, en la parte inferior podras visualizar el boton de panico, el cual una vez haya sido presionado generara una alerta de peligro en la ubicacion de la tienda registrada",
       "largeImage": "img/portfolio/home.png",
       "smallImage": "img/portfolio/home.png"
     },
     {
       "title": "Panico",
-      "text": "Cuando se haya generado un reporte de panico automaticamente se alertara a todas las personas que cuenten con la app",
+      "text": "Cuando se haya generado un reporte de panico automaticamente se alertara a todas las personas que cuenten con la app y esten dentro del radio de georeferenciación",
       "largeImage": "img/portfolio/panico.png",
       "smallImage": "img/portfolio/panico.png"
     },
@@ -44,19 +44,19 @@
     },
     {
       "title": "Perfil",
-      "text": "Aca podras ver toda la informacion relacionada contigo",
+      "text": "Aca podras ver y editar toda la informacion relacionada contigo",
       "largeImage": "img/portfolio/perfil.png",
       "smallImage": "img/portfolio/perfil.png"
     },
     {
       "title": "Agregar Usuario",
-      "text": "Manejamos un registro de usuarios mediante un codigo qr el cual redirecciona a la aplicacion y en esta el trabajador debera hacer el proceso de llenar el formulario",
+      "text": "Manejamos un registro de usuarios mediante un codigo qr el cual redirecciona a la aplicacion y en esta el trabajador debera hacer el proceso de registro individual",
       "largeImage": "img/portfolio/codigoQr.png",
       "smallImage": "img/portfolio/codigoQr.png"
     },
     {
       "title": "Administrar Usuarios",
-      "text": "Se pueden tambien ver todos los usuarios que tengamos registrados en nuestro nucleo",
+      "text": "Podrás visualizar los usuario registrados a nuestra tienda, los cuales son nuestros colaboradores.",
       "largeImage": "img/portfolio/administrarUsuario.png",
       "smallImage": "img/portfolio/administrarUsuario.png"
     },
@@ -134,14 +134,9 @@
       "job": "CTO"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/jorgeTeam.jpg",
       "name": "Jorge Rojas",
       "job": "Desarrollador Movil"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
     }
   ],
   "Contact": {

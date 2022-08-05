@@ -446,7 +446,9 @@ header .intro-text {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 220px;
+  height: 250px;
+  width: 250px;
+  /*object-fit: cover;*/
 }
 #team .thumbnail {
   background: transparent;
