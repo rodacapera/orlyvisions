@@ -31,7 +31,7 @@ function Home() {
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery}/>
        {/* <Testimonials data={landingPageData.Testimonials} /> */}
-      <Team data={landingPageData.Team} />
+      {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />
     </div>
   );
