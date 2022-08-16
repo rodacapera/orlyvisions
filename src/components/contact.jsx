@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
+import pdf from '../data/terminosCondiciones.pdf';
 
 const initialState = {
   name: '',
@@ -150,7 +151,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Panic Button.
+            &copy; 2022 Panic Button. <a href={pdf} target="_blank" rel="noreferrer"> Terminos y condiciones</a>
           </p>
         </div>
       </div>
