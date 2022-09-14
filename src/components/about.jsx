@@ -5,8 +5,7 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
-          </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1lyu1KKwC74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>          </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>Acerca De Nosotros</h2>

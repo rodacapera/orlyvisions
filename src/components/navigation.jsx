@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Panic Button
+            BodegAlert
           </a>{' '}
         </div>
 
@@ -25,11 +25,6 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
-            {/* <li>
-              <a href='#features' className='page-scroll'>
-                Features
-              </a>
-            </li> */}
             <li>
               <a href='#about' className='page-scroll'>
                 Acerca De
@@ -41,10 +36,16 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
+              <a href='#features' className='page-scroll'>
+                Funcionamiento
+              </a>
+            </li>
+            <li>
               <a href='#portfolio' className='page-scroll'>
                 Galeria
               </a>
             </li>
+
             {/* <li>
               <a href='#testimonials' className='page-scroll'>
                 Testimonials

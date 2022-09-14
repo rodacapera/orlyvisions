@@ -151,7 +151,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Panic Button. <a href={pdf} target="_blank" rel="noreferrer"> Terminos y condiciones</a>
+            &copy; 2022 BodegAlert. <a href={pdf} target="_blank" rel="noreferrer"> Terminos y condiciones</a>
           </p>
         </div>
       </div>
