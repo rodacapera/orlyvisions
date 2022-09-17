@@ -147,28 +147,9 @@
     "twitter": "https://twitter.com",
     "youtube": "https://youtube.com"
   },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ],
+  "Features": {
+    "paragraph": "Somos la mejor opción que tendrás en la palma de tu mano para esos momentos peligrosos o de posible amenaza, en los que requieras alertar a toda la comunidad y hacer saber que te encuentras en potencial peligro y con esto lograr persuadir la posible agresión o ataque"
+  },
   "DynamicPage": [
     {
       "img": "img/team/01.jpg",

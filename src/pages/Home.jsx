@@ -29,8 +29,9 @@ function Home() {
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Features data={landingPageData.Features} />
-      <Gallery data={landingPageData.Gallery}/>
-       {/* <Testimonials data={landingPageData.Testimonials} /> */}
+      <hr size="2px" width="100%" noshade="noshade" />
+      <Gallery data={landingPageData.Gallery} />
+      {/* <Testimonials data={landingPageData.Testimonials} /> */}
       {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />
     </div>
