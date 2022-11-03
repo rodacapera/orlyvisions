@@ -1,0 +1,192 @@
+{
+    "navigation": {
+        "button1": "ABOUT",
+        "button2": "SERVICES",
+        "button3": "FUNCTIONING",
+        "button4": "GALLERY",
+        "button5": "CONTACT"
+    },
+    "header": {
+        "button-learn": "learn more"
+    },
+    "about": {
+        "aboutOurs": "About Us",
+        "whyChoose": "Why should you choose us?",
+        "paragraph": "We are the best option that you will have in the palm of your hand for those dangerous moments or those of possible threat, in which you need to alert the entire community and let them know that you are in potential danger and with this manage to persuade the possible aggression or attack.",
+        "why": [
+            "Easy to handle",
+            "Fast action",
+            "Protection for your family and/or your business",
+            "The best security option for your pocket"
+        ]
+    },
+    "gallery": {
+        "title": "Gallery",
+        "paragraph": "Know the interface of the Application",
+        "items": [
+            {
+                "title": "Log In",
+                "text": "Once you have created your account and activated the app's location permissions, you can access it by selecting the corresponding country and entering the registered number.",
+                "largeImage": "img/portfolio/login.png",
+                "smallImage": "img/portfolio/login.png"
+            },
+            {
+                "title": "Verification code",
+                "text": "When you enter the app for the first time you will receive a verification message to the registered number which you must type.",
+                "largeImage": "img/portfolio/checkOtp.png",
+                "smallImage": "img/portfolio/checkOtp.png"
+            },
+            {
+                "title": "Map",
+                "text": "Within the app you can see a map with the exact location in real time, at the bottom you can see the panic button, which once it has been pressed will generate a danger alert in the location of the registered store.",
+                "largeImage": "img/portfolio/home.png",
+                "smallImage": "img/portfolio/home.png"
+            },
+            {
+                "title": "Panic",
+                "text": "When a panic report has been generated, all the people who have the app and are within the georeferencing radius will be automatically alerted.",
+                "largeImage": "img/portfolio/panico.png",
+                "smallImage": "img/portfolio/panico.png"
+            },
+            {
+                "title": "Menu",
+                "text": "There is also a navigation menu in which different modules can be viewed to which we can have access (the register user and manage user sections will only be visible to the administrator).",
+                "largeImage": "img/portfolio/menu.png",
+                "smallImage": "img/portfolio/menu.png"
+            },
+            {
+                "title": "Profile",
+                "text": "Here you can see and edit all the information related to you.",
+                "largeImage": "img/portfolio/perfil.png",
+                "smallImage": "img/portfolio/perfil.png"
+            },
+            {
+                "title": "Add User",
+                "text": "We manage a user registry through a QR code which redirects to the application and in this the worker must complete the individual registration process.",
+                "largeImage": "img/portfolio/codigoQr.png",
+                "smallImage": "img/portfolio/codigoQr.png"
+            },
+            {
+                "title": "Manage Users",
+                "text": "You will be able to visualize the registered users to our store, which are our collaborators.",
+                "largeImage": "img/portfolio/administrarUsuario.png",
+                "smallImage": "img/portfolio/administrarUsuario.png"
+            },
+            {
+                "title": "Delete user",
+                "text": "If by mistake or for any reason we want to delete a user that we had added, we can do it, however we will show you a warning message to be sure of your decision ;)",
+                "largeImage": "img/portfolio/eliminarUsuario.png",
+                "smallImage": "img/portfolio/eliminarUsuario.png"
+            },
+            {
+                "title": "Generate QR",
+                "text": "From the same section of managing users we can generate the QR code to add a new one, simple! Do not you believe it?",
+                "largeImage": "img/portfolio/administrarQr.png",
+                "smallImage": "img/portfolio/administrarQr.png"
+            }
+        ]
+    },
+    "services": {
+        "ourServices": "Our Services",
+        "meetOurServices": "Learn about the available services we offer",
+        "items": [
+            {
+                "icon": "fa fa-mobile",
+                "name": "Easy to handle",
+                "text": "Mobile application that allows you to activate panic and alert the community."
+            },
+            {
+                "icon": "fa fa-dot-circle-o",
+                "name": "Internet of Things",
+                "text": "Wireless panic button with which you can activate the panic of the mobile application without the need to use your mobile phone."
+            },
+            {
+                "icon": "fa fa-calendar",
+                "name": "Continuous support",
+                "text": "System availability 24 hours a day, 7 days a week, 365 days a year."
+            }
+        ]
+    },
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/02.jpg",
+            "name": "Orly",
+            "job": "CEO"
+        },
+        {
+            "img": "img/team/rhonaldTeam.jpeg",
+            "name": "Rhonald Capera",
+            "job": "CTO"
+        },
+        {
+            "img": "img/team/jorgeTeam.jpg",
+            "name": "Jorge Rojas",
+            "job": "Desarrollador Movil"
+        }
+    ],
+    "contact": {
+        "con": "Contact us!",
+        "name" : "Name",
+        "message" : "Message",
+        "complete": "Fill out the form below to send us an email and we'll get back to you as soon as possible.",
+        "info": "Contact information.",
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "tel" : "CellPhone",
+        "phone": "+1 (917) 805-4161",
+        "email": "info@ovisions.app",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com",
+        "send" :"Send message"
+    },
+    "features": {
+        "funct": "Functioning",
+        "about": "About the app",
+        "how": "How does it work?",
+        "paragraph": "We are the best option that you will have in the palm of your hand for those dangerous moments or those of possible threat, in which you need to alert the entire community and let them know that you are in potential danger and with this manage to persuade the possible aggression or attack."
+    },
+    "DynamicPage": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }
+    ]
+}

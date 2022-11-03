@@ -258,7 +258,7 @@ a:focus,
 
 /* Features Section */
 #features {
-  padding: 100px 0;
+  padding-top: 100px;
   color: #fff;
 }
 
@@ -316,7 +316,7 @@ a:focus,
 }
 
 #about {
-  padding: 100px 0;
+  padding-top: 100px;
 }
 
 #about h3 {

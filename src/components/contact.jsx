@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
 import pdf from '../data/terminosCondiciones.pdf';
+import { useTranslation } from "react-i18next";
 
 const initialState = {
   name: '',
@@ -8,6 +9,9 @@ const initialState = {
   message: '',
 }
 export const Contact = (props) => {
+
+  const [t] = useTranslation("global");
+
   const [{ name, email, message }, setState] = useState(initialState)
 
   const handleChange = (e) => {
@@ -40,13 +44,12 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>¡Contactanos!</h2>
+                <h2> {t("contact.con")}</h2>
                 <p>
-                  Complete el siguiente formulario para enviarnos un correo electrónico y lo haremos
-                  volver a usted tan pronto como sea posible.
+                  {t("contact.complete")}
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
+              <form name='sentMessage' onSubmit={handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
@@ -55,7 +58,7 @@ export const Contact = (props) => {
                         id='name'
                         name='name'
                         className='form-control'
-                        placeholder='Nombre'
+                        placeholder={t("contact.name")}
                         required
                         onChange={handleChange}
                       />
@@ -83,7 +86,7 @@ export const Contact = (props) => {
                     id='message'
                     className='form-control'
                     rows='4'
-                    placeholder='Mensaje'
+                    placeholder={t("contact.message")}
                     required
                     onChange={handleChange}
                   ></textarea>
@@ -91,14 +94,14 @@ export const Contact = (props) => {
                 </div>
                 <div id='success'></div>
                 <button type='submit' className='btn btn-custom btn-lg'>
-                  Enviar Mensaje
+                {t("contact.info")}
                 </button>
               </form>
             </div>
           </div>
           <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
-              <h3>Información de contacto</h3>
+              <h3>{t("contact.info")}</h3>
               {/* <p>
                 <span>
                   <i className='fa fa-map-marker'></i> Dirección
@@ -109,7 +112,7 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Teléfono
+                  <i className='fa fa-phone'></i> {t("contact.tel")}
                 </span>{' '}
                 {props.data ? props.data.phone : 'loading'}
               </p>

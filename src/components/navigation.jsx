@@ -1,4 +1,22 @@
+import { useTranslation } from "react-i18next";
+import Select from 'react-select';
+
+const options = [
+  { label: 'Es', value: 'es' },
+  { label: 'En', value: 'en' },
+]
+
 export const Navigation = (props) => {
+
+  const style = {
+    paddingTop: 10
+  }
+  const [t, i18n] = useTranslation("global");
+
+  const handleSelectChange = (event) => {
+    i18n.changeLanguage(event.value)
+  }
+
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
@@ -27,22 +45,22 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#about' className='page-scroll'>
-                Acerca De
+                {t("navigation.button1")}
               </a>
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Servicios
+                {t("navigation.button2")}
               </a>
             </li>
             <li>
               <a href='#features' className='page-scroll'>
-                Funcionamiento
+                {t("navigation.button3")}
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Galeria
+                {t("navigation.button4")}
               </a>
             </li>
 
@@ -58,8 +76,17 @@ export const Navigation = (props) => {
             </li> */}
             <li>
               <a href='#contact' className='page-scroll'>
-                Contacto
+                {t("navigation.button5")}
               </a>
+            </li>
+
+            <li style={style}>
+              <Select defaultValue={{label: 'Es', value: 'es'}} options={options} onChange={(e)  => handleSelectChange(e)} />
+            </li>
+            <li style={style}>
+              <p>
+
+              </p>
             </li>
           </ul>
         </div>

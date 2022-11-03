@@ -1,0 +1,192 @@
+{
+    "navigation": {
+        "button1": "Acerca de",
+        "button2": "Servicios",
+        "button3": "Funcionamiento",
+        "button4": "Galería",
+        "button5": "Contacto"
+    },
+    "header": {
+        "button-learn": "Aprende Más"
+    },
+    "about": {
+        "aboutOurs": "ACERCA DE NOSOTROS",
+        "whyChoose": "¿Por qué deberías elegirnos?",
+        "paragraph": "Somos la mejor opción que tendrás en la palma de tu mano para esos momentos peligrosos o de posible amenaza, en los que requieras alertar a toda la comunidad y hacer saber que te encuentras en potencial peligro y con esto lograr persuadir la posible agresión o ataque.",
+        "why": [
+            "Fácil manejo",
+            "Acción rápida",
+            "Protección para tu familia y/o tu negocio",
+            "La mejor opción en seguridad para tu bolsillo"
+        ]
+    },
+    "gallery": {
+        "title": "Galería",
+        "paragraph": "Conoce la interfaz de la Aplicación",
+        "items": [
+            {
+                "title": "Ingreso",
+                "text": "Una vez hayas creado tu cuenta y activado los permisos de ubicación de la app puedes ingresar a ella seleccionando el país correspondiente e ingresando número registrado.",
+                "largeImage": "img/portfolio/login.png",
+                "smallImage": "img/portfolio/login.png"
+            },
+            {
+                "title": "Código  de verificación",
+                "text": "Al momento de ingresar por primera vez a la app recibirás un ms de verificación al número registrado el cual deberás digitar.",
+                "largeImage": "img/portfolio/checkOtp.png",
+                "smallImage": "img/portfolio/checkOtp.png"
+            },
+            {
+                "title": "Mapa",
+                "text": "Dentro de la app podrás visualizar un mapa con la ubicación exacta en tiempo real, en la parte inferior podrás visualizar el botón de pánico, el cual una vez haya sido presionado generara una alerta de peligro en la ubicación de la tienda registrada.",
+                "largeImage": "img/portfolio/home.png",
+                "smallImage": "img/portfolio/home.png"
+            },
+            {
+                "title": "Pánico",
+                "text": "Cuando se haya generado un reporte de pánico automáticamente se alertara a todas las personas que cuenten con la app y estén dentro del radio de georreferenciación.",
+                "largeImage": "img/portfolio/panico.png",
+                "smallImage": "img/portfolio/panico.png"
+            },
+            {
+                "title": "Menú",
+                "text": "También se cuenta con un menú de navegación en el cual se pueden visualizar distintos módulos a los cuales podemos tener acceso (los apartados de registrar usuario y administrar usuario únicamente serán visibles para el administrador).",
+                "largeImage": "img/portfolio/menu.png",
+                "smallImage": "img/portfolio/menu.png"
+            },
+            {
+                "title": "Perfil",
+                "text": "Acá podrás ver y editar toda la información relacionada contigo.",
+                "largeImage": "img/portfolio/perfil.png",
+                "smallImage": "img/portfolio/perfil.png"
+            },
+            {
+                "title": "Agregar Usuario",
+                "text": "Manejamos un registro de usuarios mediante un código QR el cual redirecciona a la aplicación y en esta el trabajador deberá hacer el proceso de registro individual.",
+                "largeImage": "img/portfolio/codigoQr.png",
+                "smallImage": "img/portfolio/codigoQr.png"
+            },
+            {
+                "title": "Administrar Usuarios",
+                "text": "Podrás visualizar los usuarios registrados a nuestra tienda, los cuales son nuestros colaboradores.",
+                "largeImage": "img/portfolio/administrarUsuario.png",
+                "smallImage": "img/portfolio/administrarUsuario.png"
+            },
+            {
+                "title": "Eliminar usuario",
+                "text": "Si por error o cualquier motivo queremos eliminar a un usuario que teníamos agregado, lo podemos hacer, más sin embargo te mostraremos un mensaje de advertencia para estar seguros de tu decisión ;)",
+                "largeImage": "img/portfolio/eliminarUsuario.png",
+                "smallImage": "img/portfolio/eliminarUsuario.png"
+            },
+            {
+                "title": "Generar QR",
+                "text": "Desde el mismo apartado de administrar usuarios podemos generar el código QR para agregar uno nuevo ¡sencillo! ¿No lo crees?",
+                "largeImage": "img/portfolio/administrarQr.png",
+                "smallImage": "img/portfolio/administrarQr.png"
+            }
+        ]
+    },
+    "services": {
+        "ourServices": "Nuestros Servicios",
+        "meetOurServices": "Conoce los servicios disponibles que ofrecemos",
+        "items": [
+            {
+                "icon": "fa fa-mobile",
+                "name": "Facil Manejo",
+                "text": "Aplicación móvil que te permite activar el pánico y alertar a la comunidad."
+            },
+            {
+                "icon": "fa fa-dot-circle-o",
+                "name": "Internet of Things",
+                "text": "Botón de pánico inalámbrico con el cual podrás activar el pánico de la aplicación móvil sin la necesidad de usar tu teléfono móvil."
+            },
+            {
+                "icon": "fa fa-calendar",
+                "name": "Soporte Continuo",
+                "text": "Disponibilidad del sistema las 24 horas del día los 7 días de la semana, los 365 días del año."
+            }
+        ]
+    },
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/02.jpg",
+            "name": "Orly",
+            "job": "CEO"
+        },
+        {
+            "img": "img/team/rhonaldTeam.jpeg",
+            "name": "Rhonald Capera",
+            "job": "CTO"
+        },
+        {
+            "img": "img/team/jorgeTeam.jpg",
+            "name": "Jorge Rojas",
+            "job": "Desarrollador Movil"
+        }
+    ],
+    "contact": {
+        "con": "¡Contactanos!",
+        "name" : "Nombre",
+        "message" : "Mensaje",
+        "complete": "Complete el siguiente formulario para enviarnos un correo electrónico y lo haremos volver a usted tan pronto como sea posible.",
+        "info": "Información de contacto",
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "tel" : "Teléfono",
+        "phone": "+1 (917) 805-4161",
+        "email": "info@ovisions.app",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com",
+        "send" :"Enviar Mensaje"
+    },
+    "features": {
+        "funct": "Funcionamiento",
+        "about": "Acerca De la Aplicación",
+        "how": "¿Como funciona?",
+        "paragraph": "Somos la mejor opción que tendrás en la palma de tu mano para esos momentos peligrosos o de posible amenaza, en los que requieras alertar a toda la comunidad y hacer saber que te encuentras en potencial peligro y con esto lograr persuadir la posible agresión o ataque"
+    },
+    "DynamicPage": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }
+    ]
+}
