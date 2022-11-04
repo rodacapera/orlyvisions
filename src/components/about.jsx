@@ -11,7 +11,7 @@ export const About = (props) => {
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6 video-responsive">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/lj5QR4FTiLM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>          </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/DC5DwMahgjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>{t("about.aboutOurs")}</h2>
