@@ -9,7 +9,8 @@ const options = [
 export const Navigation = (props) => {
 
   const style = {
-    paddingTop: 10
+    paddingTop: 10,
+    margin: '0 20',
   }
   const [t, i18n] = useTranslation("global");
 
@@ -79,7 +80,6 @@ export const Navigation = (props) => {
                 {t("navigation.button5")}
               </a>
             </li>
-
             <li style={style}>
               <Select defaultValue={options[0]} options={options} onChange={(e) => handleSelectChange(e)} formatOptionLabel={option => (
                 <div>
@@ -87,11 +87,6 @@ export const Navigation = (props) => {
                   {option.label}
                 </div>
               )} />
-            </li>
-            <li style={style}>
-              <p>
-
-              </p>
             </li>
           </ul>
         </div>
