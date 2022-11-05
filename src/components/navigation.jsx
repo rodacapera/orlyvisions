@@ -2,8 +2,8 @@ import { useTranslation } from "react-i18next";
 import Select from 'react-select';
 
 const options = [
-  { label: 'Es', value: 'es' },
-  { label: 'En', value: 'en' },
+  { label: 'Es', value: 'es', flag: 'img/español.png' },
+  { label: 'En', value: 'en', flag: 'img/ingles.png' },
 ]
 
 export const Navigation = (props) => {
@@ -81,7 +81,12 @@ export const Navigation = (props) => {
             </li>
 
             <li style={style}>
-              <Select defaultValue={{label: 'Es', value: 'es'}} options={options} onChange={(e)  => handleSelectChange(e)} />
+              <Select defaultValue={options[0]} options={options} onChange={(e) => handleSelectChange(e)} formatOptionLabel={option => (
+                <div>
+                  {option.flag ? <img style={{ height: '30px', width: '30px', borderRadius: '50%', marginRight: '10px' }} alt='flag' src={option.flag} /> : ''}
+                  {option.label}
+                </div>
+              )} />
             </li>
             <li style={style}>
               <p>
