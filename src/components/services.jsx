@@ -12,7 +12,7 @@ export const Services = (props) => {
       <div className='container'>
         <div className='section-title'>
           <h2>{t("services.ourServices")}</h2>
-          <p>
+          <p style={{textAlign: 'center'}}>
             {t("services.meetOurServices")}
           </p>
         </div>

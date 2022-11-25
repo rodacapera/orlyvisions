@@ -4,7 +4,8 @@
         "button2": "SERVICES",
         "button3": "FUNCTIONING",
         "button4": "GALLERY",
-        "button5": "CONTACT"
+        "button5": "CONTACT",
+        "button6": "BikeAlert"
     },
     "header": {
         "button-learn": "learn more"
@@ -177,6 +178,13 @@
         "how": "How does it work?",
         "paragraph": "We are the best option that you will have in the palm of your hand for those dangerous moments or those of possible threat, in which you need to alert the entire community and let them know that you are in potential danger and with this manage to persuade the possible aggression or attack."
     },
+    "bikeAlert": {
+        "title": "BikeAlert",
+        "about": "What is BikeAlert?",
+        "paragraph1":"BikeAlert is the new functionality of BodegAlert designed to support and improve the security of deliveries, through the use of our technological platform available in the best mobile application stores.",
+        "how": "How does it work?",
+        "paragraph2": "The operation is the same, regardless of whether you register as a winery or as a delivery. (If you want to explore the procedure for using our app, head over to the gallery section)"
+    },
     "DynamicPage": [
         {
             "img": "img/team/01.jpg",
@@ -188,5 +196,6 @@
             "name": "Mike Doe",
             "job": "Senior Designer"
         }
-    ]
+    ],
+    "terms": "Terms and Conditions"
 }

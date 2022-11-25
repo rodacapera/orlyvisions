@@ -60,6 +60,11 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
+              <a href='#bikeAlert' className='page-scroll'>
+                {t("navigation.button6")}
+              </a>
+            </li>
+            <li>
               <a href='#portfolio' className='page-scroll'>
                 {t("navigation.button4")}
               </a>

@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { Navigation } from "../components/navigation";
 import { Header } from "../components/header";
 import { Features } from "../components/features";
+import { BikeAlert } from "../components/bikeAlert";
 import { About } from "../components/about";
 import { Services } from "../components/services";
 import { Gallery } from "../components/gallery";
@@ -30,7 +31,7 @@ function Home() {
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Features data={landingPageData.Features} />
-      <hr size="2px" width="100%" noshade="noshade" />
+      <BikeAlert/>
       <Gallery data={landingPageData.Gallery} />
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       {/* <Team data={landingPageData.Team} /> */}

@@ -154,7 +154,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 BodegAlert. <a href={pdf} target="_blank" rel="noreferrer"> Terminos y condiciones</a>
+            &copy; 2022 BodegAlert. <a href={pdf} target="_blank" rel="noreferrer">{t("terms")}</a>
           </p>
         </div>
       </div>
